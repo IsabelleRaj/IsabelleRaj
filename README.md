@@ -28,5 +28,3 @@ Feel free to connect with me through the following channels:
 Don't hesitate to reach out to me! I'm always open to new opportunities and collaborations 😄.
 
 ![Isabelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsabelleRaj&show_icons=true&theme=radical)
-
-![Isabelle Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsabelleRaj&show_icons=true&theme=vue)
