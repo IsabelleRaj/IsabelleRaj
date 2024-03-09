@@ -22,7 +22,7 @@ Here are a few projects I've worked on:
 Feel free to connect with me through the following channels:
 
 - **LinkedIn:** [Isabelle Rajendiran](https://www.linkedin.com/in/isabelle-rajendiran/)
-- **GitHub:** [IsabelleRaj](https://github.com/IsabelleRaj)[![GitHub Logo (https://image.flaticon.com/icons/png/512/25/25231.png)]
+- **GitHub:** [IsabelleRaj](https://github.com/IsabelleRaj)
 - **Email:** [isabellerajendiran@ymail.com](mailto:isabellerajendiran@ymail.com)
 
 Don't hesitate to reach out to me! I'm always open to new opportunities and collaborations 😄.
