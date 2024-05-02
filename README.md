@@ -5,7 +5,7 @@ Hello! I'm Isabelle Rajendiran ✨
 ## About me
 
 - I am interested in **data analytics** and **data science** 🖥️
-- I am currently a **data science bootcamp student** 👩‍🎓
+- I recently completed a **data science bootcamp** 👩‍🎓
 - My programming languages are **Python, R and SQL** 🗣️
 - I am looking to collaborate on projects invoving **data exploratory analyses and machine learning** 👯
 
