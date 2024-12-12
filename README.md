@@ -5,17 +5,18 @@ Hello! I'm Isabelle Rajendiran ✨
 ## About me
 
 - I am interested in **data analytics** and **data science** 🖥️
-- I recently completed a **data science bootcamp** 👩‍🎓
 - My programming languages are **Python, R and SQL** 🗣️
-- I am looking to collaborate on projects invoving **data exploratory analyses and machine learning** 👯
+- I am looking to collaborate on projects invoving **data exploratory analyses, data visualisation and machine learning** 👯
 
 ## Projects
 
 Here are a few projects I've worked on:
 
-1. [COVID-19 Data Exploration](https://github.com/IsabelleRaj/covid_19_exploration) | SQL and Tableau
-2. [Finance Calculator](https://github.com/IsabelleRaj/finance-calculator) | Python 
-3. [_Anopheles_ Mosquitoes Population Size Estimation](https://github.com/IsabelleRaj/anopheles-population-size) | Python
+1. [TMDB Movies Data Exploration](https://github.com/IsabelleRaj/TMDB-Movies-Data-Exploration) | Python
+2. [COVID-19 Data Exploration](https://github.com/IsabelleRaj/covid_19_exploration) | SQL and Tableau
+3. [Finance Calculator](https://github.com/IsabelleRaj/finance-calculator) | Python 
+4. [_Anopheles_ Mosquitoes Population Size Estimation](https://github.com/IsabelleRaj/Anopheles-Population-Size) | Python
+
 
 ## Contact Me
 
