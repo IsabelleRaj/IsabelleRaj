@@ -1,9 +1,4 @@
 [![MasterHead](banner.png)](https://github.com/IsabelleRaj)
-
-# Welcome! 👋
-
-Hello! I'm Isabelle Rajendiran ✨
-
 ## About me
 
 - I am interested in **data analytics** and **data science** 🖥️
