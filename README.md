@@ -1,4 +1,4 @@
-[![MasterHead](banner.png)](https://github.com/IsabelleRaj))
+[![MasterHead](banner.png)](https://github.com/IsabelleRaj)
 
 # Welcome! 👋
 
