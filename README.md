@@ -1,4 +1,5 @@
 [![MasterHead](banner.png)](https://github.com/IsabelleRaj)
+Banner image source is [Freepik](https://www.freepik.com/).
 ## About me
 
 - I am interested in **data analytics** and **data science** 🖥️
