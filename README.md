@@ -27,4 +27,4 @@ Don't hesitate to reach out to me! I'm always open to new opportunities and coll
 
 ![Isabelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsabelleRaj&show_icons=true&theme=moltack)
 
-##### Credits to [Freepik](https://www.freepik.com/) from which my banner was edited from.
+#### Credits to [Freepik](https://www.freepik.com/) from which my banner was edited from.
