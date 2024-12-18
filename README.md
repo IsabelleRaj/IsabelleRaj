@@ -1,11 +1,11 @@
 [![MasterHead](banner.png)](https://github.com/IsabelleRaj)
-## About me
+## About me 👋🏾
 
 - I am interested in **data analytics** and **data science** 🖥️
 - My programming languages are **Python, R and SQL** 🗣️
 - I am looking to collaborate on projects invoving **data exploratory analyses, data visualisation and machine learning** 👯
 
-## Projects
+## Projects 🗃️
 
 Here are a few projects I've worked on:
 
@@ -15,7 +15,7 @@ Here are a few projects I've worked on:
 4. [COVID-19 Data Exploration](https://github.com/IsabelleRaj/covid_19_exploration) | SQL and Tableau
 
 
-## Contact Me
+## Contact Me ☎️
 
 Feel free to connect with me through the following channels:
 
@@ -25,6 +25,7 @@ Feel free to connect with me through the following channels:
 
 Don't hesitate to reach out to me! I'm always open to new opportunities and collaborations 😄.
 
+## GitHub Statistics 📊
 ![Isabelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsabelleRaj&show_icons=true&theme=moltack)
 
 #### Credits to [Freepik](https://www.freepik.com/) from which my banner was edited from.
