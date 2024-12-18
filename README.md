@@ -1,37 +1,36 @@
 <div align="center">
   
-  [![MasterHead](banner.png)](https://github.com/IsabelleRaj)
+[![MasterHead](banner.png)](https://github.com/IsabelleRaj)
+
+## About me 👋🏾
   
-  ## About Me 👋🏾
+I am interested in **data analytics** and **data science** 🖥️
+My programming languages are **Python, R and SQL** 🗣️
+I am looking to collaborate on projects invoving **data exploratory analyses, data visualisation and machine learning** 👯
   
-  <ul style="list-style-position: inside; text-align: center;">
-    <li>I am interested in <b>data analytics</b> and <b>data science</b> 🖥️</li>
-    <li>My programming languages are <b>Python, R, and SQL</b> 🗣️</li>
-    <li>I am looking to collaborate on projects involving <b>data exploratory analyses, data visualization, and machine learning</b> 👯</li>
-  </ul>
+## Projects 🗃️
   
-  ## Projects 🗃️
+Here are a few projects I've worked on:
   
-  <ul style="list-style-position: inside; text-align: center;">
-    <li><a href="https://github.com/IsabelleRaj/TMDB-Movies-Data-Exploration">TMDB Movies Data Exploration</a> | Python</li>
-    <li><a href="https://github.com/IsabelleRaj/finance-calculator">Finance Calculator</a> | Python</li>
-    <li><a href="https://github.com/IsabelleRaj/Anopheles-Population-Size">_Anopheles_ Mosquitoes Population Size Estimation</a> | Python</li>
-    <li><a href="https://github.com/IsabelleRaj/covid_19_exploration">COVID-19 Data Exploration</a> | SQL and Tableau</li>
-  </ul>
+[TMDB Movies Data Exploration](https://github.com/IsabelleRaj/TMDB-Movies-Data-Exploration) | Python
+[Finance Calculator](https://github.com/IsabelleRaj/finance-calculator) | Python 
+[_Anopheles_ Mosquitoes Population Size Estimation](https://github.com/IsabelleRaj/Anopheles-Population-Size) | Python
+[COVID-19 Data Exploration](https://github.com/IsabelleRaj/covid_19_exploration) | SQL and Tableau
   
-  ## Contact Me ☎️
   
-  <ul style="list-style-position: inside; text-align: center;">
-    <li><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/isabelle-rajendiran/">Isabelle Rajendiran</a></li>
-    <li><b>GitHub:</b> <a href="https://github.com/IsabelleRaj">IsabelleRaj</a></li>
-    <li><b>Email:</b> <a href="mailto:isabellerajendiran@ymail.com">isabellerajendiran@ymail.com</a></li>
-  </ul>
+## Contact Me ☎️
   
-  <p>Don't hesitate to reach out to me! I'm always open to new opportunities and collaborations 😄.</p>
+Feel free to connect with me through the following channels:
   
-  ## GitHub Statistics 📊
-  <img src="https://github-readme-stats.vercel.app/api?username=IsabelleRaj&show_icons=true&theme=moltack" alt="Isabelle's GitHub stats" />
+**LinkedIn:** [Isabelle Rajendiran](https://www.linkedin.com/in/isabelle-rajendiran/)
+**GitHub:** [IsabelleRaj](https://github.com/IsabelleRaj)
+**Email:** [isabellerajendiran@ymail.com](mailto:isabellerajendiran@ymail.com)
   
-  <p><small>Credits to <a href="https://www.freepik.com/">Freepik</a> from which my banner was edited.</small></p>
+Don't hesitate to reach out to me! I'm always open to new opportunities and collaborations 😄.
+  
+## GitHub Statistics 📊
+![Isabelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsabelleRaj&show_icons=true&theme=moltack)
+  
+#### Credits to [Freepik](https://www.freepik.com/) from which my banner was edited from.
   
 </div>
