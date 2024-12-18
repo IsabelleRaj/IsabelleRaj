@@ -4,9 +4,9 @@
 
 ## About me 👋🏾
   
-I am interested in **data analytics** and **data science** 🖥️
-My programming languages are **Python, R and SQL** 🗣️
-I am looking to collaborate on projects invoving **data exploratory analyses, data visualisation and machine learning** 👯
+- I am interested in **data analytics** and **data science** 🖥️
+- My programming languages are **Python, R and SQL** 🗣️
+- I am looking to collaborate on projects invoving **data exploratory analyses, data visualisation and machine learning** 👯
   
 ## Projects 🗃️
   
