@@ -10,8 +10,9 @@
 Here are a few projects I've worked on:
 
 1. [TMDB Movies Data Exploration](https://github.com/IsabelleRaj/TMDB-Movies-Data-Exploration) | Python
-2. [Finance Calculator](https://github.com/IsabelleRaj/finance-calculator) | Python 
-3. [_Anopheles_ Mosquitoes Population Size Estimation](https://github.com/IsabelleRaj/Anopheles-Population-Size) | Python
+2. [Finance Calculator](https://github.com/IsabelleRaj/finance-calculator) | Python
+3. [COVID-19 Data Exploration](https://github.com/IsabelleRaj/COVID-19-Exploration) | SQL | Tableau
+4. [_Anopheles_ Mosquitoes Population Size Estimation](https://github.com/IsabelleRaj/Anopheles-Population-Size) | Python
 
 ## Contact Me ☎️
 
