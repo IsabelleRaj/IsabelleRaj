@@ -9,11 +9,12 @@
 
 Here are a few projects I've worked on:
 
-1. [TMDB Movies Data Exploration](https://github.com/IsabelleRaj/TMDB-Movies-Data-Exploration) | Python
-2. [COVID-19 Data Exploration](https://github.com/IsabelleRaj/COVID-19-Exploration) | SQL | Tableau
-3. [Life Expectancy Predictive Modelling](https://github.com/IsabelleRaj/Life-Expectancy-Prediction) | Python
-4. [Finance Calculator](https://github.com/IsabelleRaj/finance-calculator) | Python
-5. [_Anopheles_ Mosquitoes Population Size Estimation](https://github.com/IsabelleRaj/Anopheles-Population-Size) | Python
+- [TMDB Movies Data Exploration](https://github.com/IsabelleRaj/TMDB-Movies-Data-Exploration) | Python
+- [COVID-19 Data Exploration](https://github.com/IsabelleRaj/COVID-19-Exploration) | SQL | Tableau
+- [Life Expectancy Predictive Modelling](https://github.com/IsabelleRaj/Life-Expectancy-Prediction) | Python
+- [Finance Calculator](https://github.com/IsabelleRaj/finance-calculator) | Python
+- [_Anopheles_ Mosquitoes Population Size Estimation](https://github.com/IsabelleRaj/Anopheles-Population-Size) | Python
+- [Customer Churn Predictive Modelling](https://github.com/IsabelleRaj/Swan-Consulting) | Python
 
 ## Contact Me ☎️
 
